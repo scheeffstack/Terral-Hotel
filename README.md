@@ -1,4 +1,5 @@
 # Terra l'Hotel
+Check out the live app [here.](https://terralhotel.herokuapp.com/)
 
 Quick Links: \
 [Introduction](#introduction) \
